@@ -17,6 +17,5 @@ app = FastAPI()
 async def make_calc(data: CalcData):
     return {"full_sum": round(Calculate.calculate(**data.dict()), 2)}
 
-
 if __name__ == "__main__":
     uvicorn.run(app, host="127.0.0.1", port=5000)
