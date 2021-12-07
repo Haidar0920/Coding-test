@@ -11,3 +11,5 @@ the calculation and return interest paid. Assumptions: payment is at the end of 
 interest and taxes can be omitted.
 ~~~
 I  imported only json library because i can't put json file on input without it 
+
+# interest.json - it's a example of input data 
