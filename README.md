@@ -17,3 +17,5 @@ I made 2 decisions by this task
 2) app - a solution option via fastapi, sending json using the POST method to http://127.0.0.1:5000/calculate/
 
 ### data.json - it's a example of input data 
+
+### calculate.py- calculation of cumulative interest
